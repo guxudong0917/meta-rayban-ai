@@ -114,11 +114,11 @@ Before using TurboMeta, you **MUST** enable developer mode in Meta AI App:
 
 ---
 
-### 📱 Android (Recommended)
+### 📱 Android
 
-[![Download APK](https://img.shields.io/github/v/release/Turbo1123/turbometa-rayban-ai?label=Download%20APK&logo=android&color=green)](https://github.com/Turbo1123/turbometa-rayban-ai/releases/latest)
+> ⚠️ **Note**: Android version is currently v1.0.0, latest features not yet available
 
-👉 [**Download Latest APK**](https://github.com/Turbo1123/turbometa-rayban-ai/releases/latest)
+👉 [**Go to Downloads**](https://github.com/Turbo1123/turbometa-rayban-ai/releases)
 
 **Android Installation:**
 1. Download APK file
@@ -129,11 +129,11 @@ Before using TurboMeta, you **MUST** enable developer mode in Meta AI App:
 
 ---
 
-### 🍎 iOS
+### 🍎 iOS (Recommended)
 
-[![Download IPA](https://img.shields.io/github/v/release/Turbo1123/turbometa-rayban-ai?label=Download%20IPA&logo=apple&color=black)](https://github.com/Turbo1123/turbometa-rayban-ai/releases/latest)
+> ✅ **Latest Version**: iOS updated to v1.3.0 with bilingual UI, OpenRouter, Gemini support
 
-👉 [**Download Latest IPA**](https://github.com/Turbo1123/turbometa-rayban-ai/releases/latest)
+👉 [**Go to Downloads**](https://github.com/Turbo1123/turbometa-rayban-ai/releases)
 
 **iOS Installation Methods:**
 

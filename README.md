@@ -118,11 +118,11 @@
 
 ---
 
-### 📱 Android（推荐）
+### 📱 Android
 
-[![Download APK](https://img.shields.io/github/v/release/Turbo1123/turbometa-rayban-ai?label=Download%20APK&logo=android&color=green)](https://github.com/Turbo1123/turbometa-rayban-ai/releases/latest)
+> ⚠️ **注意**：Android 版本目前为 v1.0.0，暂未更新最新功能
 
-👉 [**点击下载最新版 APK**](https://github.com/Turbo1123/turbometa-rayban-ai/releases/latest)
+👉 [**前往下载页面**](https://github.com/Turbo1123/turbometa-rayban-ai/releases)
 
 **Android 安装步骤：**
 1. 下载 APK 文件
@@ -133,11 +133,11 @@
 
 ---
 
-### 🍎 iOS
+### 🍎 iOS（推荐）
 
-[![Download IPA](https://img.shields.io/github/v/release/Turbo1123/turbometa-rayban-ai?label=Download%20IPA&logo=apple&color=black)](https://github.com/Turbo1123/turbometa-rayban-ai/releases/latest)
+> ✅ **最新版本**：iOS 版本已更新至 v1.3.0，支持中英文、OpenRouter、Gemini 等新功能
 
-👉 [**点击下载最新版 IPA**](https://github.com/Turbo1123/turbometa-rayban-ai/releases/latest)
+👉 [**前往下载页面**](https://github.com/Turbo1123/turbometa-rayban-ai/releases)
 
 ### 安装工具推荐
 
